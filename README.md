@@ -22,7 +22,7 @@ CmA_F_Agt-NDA
 
 CmA_F_Note-YC-SAFE
 
-CmaccDoc_U  - mount as /Doc/U/
+CmA_U  - mount as /Doc/U/
 
 CmaccDoc_Z  - mount as /Doc/Z/
 
