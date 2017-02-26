@@ -22,9 +22,9 @@ CmA_F_Agt-NDA
 
 CmA_F_Note-YC-SAFE
 
-CmA_U  - mount as /Doc/U/
+CmaccDoc_U  - mount as /Doc/U/
 
-CmA_Z  - mount as /Doc/Z/
+CmaccDoc_Z  - mount as /Doc/Z/
 
 start with the app:
 
