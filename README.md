@@ -12,12 +12,28 @@ http://source.commonaccord.org/index.php?action=list&file=D/Acme/Ang-YC-Note/
 
 DEPENDENCIES:
 
+Unless otherwise specified, mount in /Doc/G/   (for "git").  Start with the bottom of the list and work up. 
+
 CmA_D_Acme-Ang-YC-Note
+
 CmA_F_Agt-Form
+
 CmA_F_Agt-NDA
+
 CmA_F_Note-YC-SAFE
-CmA_U
-CmA_Z
+
+CmA_U  - mount as /Doc/U/
+
+CmA_Z  - mount as /Doc/Z/
+
+start with the app:
+
+cmacc-app  - mount in /vendor/
+
+cmacc-host  - the root for the others. 
+
+
+
 
 
 
