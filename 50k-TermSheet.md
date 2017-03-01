@@ -8,19 +8,19 @@ ValuationCap.$=$2,000,000
 
 Discount.%=8%
 
-Company.=[U/id/acme_incorporated.md]
+Company.=[G/U/id/acme_incorporated.md]
 
 Company.xSignature=xA-Altima-95M3ncQz9r
 
 Company.Sign.YMD=September 28, 2015
 
-Investor.=[U/id/andrea_ang.md]
+Investor.=[G/U/id/andrea_ang.md]
 
 Investor.xSignature=xA-Ang-w4lDIn925u
 
 Investor.Sign.YMD=September 27, 2015
 
-Law.=[U/at/US/CA/Geo]
+Law.=[G/U/at/US/CA/Geo]
 
 
 

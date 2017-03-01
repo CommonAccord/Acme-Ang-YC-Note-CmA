@@ -1,6 +1,6 @@
-P1.=[U/id/acme_incorporated.md]
+P1.=[G/U/id/acme_incorporated.md]
 
-P2.=[U/id/andrea_ang.md]
+P2.=[G/U/id/andrea_ang.md]
 
 Doc.GUID=012345
 
@@ -14,7 +14,7 @@ EffectiveDate.YMD=2016-07-09
 
 Conf.Life.End.YMD=2018-12-31
 
-Law.=[U/at/US/CA/Geo]
+Law.=[G/U/at/US/CA/Geo]
 
 Conf.Engage.Access.sec={Conf.Engage.Access.HumanSolely.sec}
 
