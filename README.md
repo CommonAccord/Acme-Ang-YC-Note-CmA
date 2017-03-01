@@ -1,4 +1,4 @@
-<a href="https://github.com/CommonAccord/CmA_D_Acme-Ang-YC-Note/edit/master/README.md">https://github.com/CommonAccord/CmA_D_Acme-Ang-YC-Note/edit/master/README.md</a>
+<a href="https://github.com/CommonAccord/Acme-Ang-YC-Note-CmA/edit/master/README.md">https://github.com/CommonAccord/Acme-Ang-YC-Note-CmA/edit/master/README.md</a>
 
 Direct git load repo /G/ - YC SAFE investment note and NDA.
 
@@ -15,13 +15,13 @@ DEPENDENCIES:
 
 Unless otherwise specified, mount in /Doc/G/   (for "git").  Start with the bottom of the list and work up. 
 
-CmA_D_Acme-Ang-YC-Note
+Acme-Ang-YC-Note-CmA
 
-CmA_F_Agt-Form
+Agt-Form-CmA
 
-CmA_F_Agt-NDA
+Agt-NDA-CmA
 
-CmA_F_Note-YC-SAFE
+YC-Note-SAFE-CmA
 
 CmA_U  - mount as /Doc/U/
 
